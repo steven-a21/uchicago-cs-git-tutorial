@@ -1,2 +1,3 @@
 
-Steven Alnemri salnemri salnemri
+Steven Alnemri salnemri
+UChicago CS Git Tutorial
